@@ -1,7 +1,8 @@
 'use strict';
 
 var assert = require('chai').assert;
-var chainDefined = require('../index');
+//var chainDefined = require('../index');
+var chainDefined = require('../oneLineChainDefined');
 
 describe('ChainDefined tests', function () {
 	var testObject = {
