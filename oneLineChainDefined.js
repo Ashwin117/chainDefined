@@ -1,3 +1,5 @@
+// This is the exact same functionality as index.js but I've simply condensed everything to one line...for fun. Please don't be upset!
+
 'use strict';
 
 module.exports = function (rootObject, objectChainArray) {
